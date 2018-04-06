@@ -1,3 +1,13 @@
+# Forked REPO
+The upstream repository does not have the kafka images publicly available, this forked repo will allow ObjectRocket to keep track of the changes while allowing us to build the necessary images for kafka.
+
+# Kafka-based Images in DockerHub
+There's a public repository in ObjectRocket Docker Hub organization where the images are hosted:
+https://hub.docker.com/r/objectrocket/fluentd-kubernetes-daemonset/
+
+
+
+
 # Fluentd Daemonset for Kubernetes
 
 [![Docker Stars](https://img.shields.io/docker/stars/fluent/fluentd-kubernetes-daemonset.svg)](https://hub.docker.com/r/fluent/fluentd-kubernetes-daemonset)
